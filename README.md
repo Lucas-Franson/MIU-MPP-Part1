@@ -20,3 +20,7 @@ Modern Programming Practices
 
 > [!NOTE]
 At a user requirement text, nouns becomes classes and verbs becomes relationship
+
+## Relationship (UML)
+### Associations
+![](Association.png)
