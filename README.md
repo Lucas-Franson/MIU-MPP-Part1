@@ -1,4 +1,6 @@
 # MIU-MPP-Part1
+Maharishi International University 
+Modern Programming Practices
 
 
 ## Software Development Life Cycle (SDLC)
