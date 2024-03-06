@@ -18,3 +18,11 @@ Modern Programming Practices
 ![Image representing the inheritance relationship between two classes](Inheritance.png)
 - A obtain properties and behaviors of B
 - A is a type of B
+
+## Relationship Names
+Giving a specific user requirement text, the nouns will become the classes and the verbs will become the names, then we can create an association matrix, example:
+
+|           | Student | Professor     |
+|----------:|---------|---------------|
+| Student   |         | is teached by |
+| Professor | teaches |               |
